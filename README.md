@@ -1,9 +1,7 @@
-# Changyi Yang
-
 ## Contact
 
-* mail: Changyiyang@link.cuhk.edu.cn
-* phone: (+1)509-216-0357 , (+86) 182-5952-0157
+* Mail: Changyiyang@link.cuhk.edu.cn
+* Phone: (+1)509-216-0357 , (+86) 182-5952-0157
 * Address: 2001 Longxiang Road, Longgang District, Shenzhen, China
 
 ## Education
@@ -67,7 +65,7 @@
 
 ## Project
 
-### LSTM for PebbleBedReactor
+### LSTM for PebbleBed Reactor
 
 * Implemented a LSTM model with Pytorch
 * Include the data pre-possessing, dataset, nets, grid search and result visualization
