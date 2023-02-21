@@ -53,11 +53,11 @@
 
 ## Experience
 
-#### **Shaw College** *(Sep.2020 - Jan.2021)*	Student Helper
+### **Shaw College** *(Sep.2020 - Jan.2021)*	Student Helper
 
 * Participated in organizing and carrying out several students’ activities with students and teachers
 
-#### **UC Berkeley Data Science Apartment** *(Jan.2023 - present)* 	Student Researcher
+### **UC Berkeley Data Science Apartment** *(Jan.2023 - present)* 	Student Researcher
 
 * Apply Machine Learning techniques on nuclear reactor reactor
 * Focus on time series data. Use LSTM model.
