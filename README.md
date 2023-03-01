@@ -8,7 +8,7 @@
 
 ### **Chinese University of Hong Kong, Shenzhen** *(Sep.2020 - present)*
 
-* Bachelor of **Computer Science**
+* majoring in **Computer Science and Engineering**
 
 *  **cGPA** *(*3.78/4.0) (Rank:11/155), **mGPA** (3.82/4.0) (Rank:17/155)
 
@@ -26,7 +26,7 @@
 
 ### University of California, Berkeley *(Sep.2022 - present)*
 
-* Visiting Studnet
+* Visiting Student
 
 *  **GPA**: 4.0
 
@@ -38,7 +38,7 @@
 
   *Computer Security:* Learn security in multiple levels, including program level and Internet level. Learn about cryptography including RSA and its usage
 
-  *Deep Learning:* Teach the advanced DL techniques and the math behind
+  *Deep Learning:* Learn the advanced DL techniques and the math behind
 
   *Computer Graphics:* Learn Techniques of modeling objects for the purpose of computer rendering. 
 
