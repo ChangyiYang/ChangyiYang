@@ -1,102 +1,102 @@
-## Contact
+# Changyi Yang  
+**Phone:** 878-218-8239  
+**Email:** [changyiyang2023@gmail.com](mailto:changyiyang2023@gmail.com)  
+**GitHub:** [github.com/ChangyiYang](https://github.com/ChangyiYang)  
+**Education:** Carnegie Mellon University  
+---
 
-* Mail: Changyiyang@link.cuhk.edu.cn
-* Phone: (+1)509-216-0357 , (+86) 182-5952-0157
-* Address: 2001 Longxiang Road, Longgang District, Shenzhen, China
+## EDUCATION
 
-## Education
+**Carnegie Mellon University**  
+*Information Networking Institute*  
+*Aug. 2024 - Present*
 
-### **Chinese University of Hong Kong, Shenzhen** *(Sep.2020 - present)*
+**University of California, Berkeley**  
+*Exchange Student in Computer Science*  
+*Sep. 2022 - May. 2023*  
+**GPA:** 3.96/4.00  
 
-* majoring in **Computer Science and Engineering**
+**Chinese University of Hong Kong, Shenzhen**  
+*Bachelor of Science in Computer Science*  
+*Sep. 2020 - June 2024*  
+**GPA:** 3.92/4.00  
 
-*  **cGPA** *(*3.78/4.0) (Rank:11/155), **mGPA** (3.82/4.0) (Rank:17/155)
+---
 
-* **Relevant Courses**:
+## RESEARCH EXPERIENCE
 
-  *Programming Methodology, Computational Laboratory:* teach programming with Python
+**Long-Short Term Memory (LSTM) for Pebble Bed Reactor**  
+*UC Berkeley, California*  
+*Jan. 2023 - Jan. 2024*  
+- Applied Data Science and Machine Learning techniques to the nuclear reactor field, providing ML insights for physicists.
+- Used LSTM to predict the reactor core state, helping the operator better control the reactor and avoid accidental mistakes.
+- Designed an effective dimensionality reduction method that had physical meaning, resulting in 1000 times size reduction.
+- Used Variational Autoencoder (VAE) to do data duplication, solving the insufficient data issue. Expanded the data by fivefold.
 
-   *Programming Paradigms:* teach C++ and some programming knowledge
+---
 
-   *Data Structures:* teach some classic data structures and their implementation and usage
+## INTERNSHIP EXPERIENCE
 
-   *Computer Architecture:* teach the underlying structure of the computer and do simulations with Verilog
+**Sony**  
+*Shenzhen, China*  
+*Backend Engineer Intern*  
+*Jan. 2024 - May. 2024*  
+- Integrated data from IMU sensors and MediaPipe's posture recognition model using Kalman filtering to enhance motion tracking accuracy, particularly for complex hand and torso movements during slow motion.
+- Balanced speed and accuracy by selecting appropriate model and image quality based on the online and offline scenarios.
+- Built a multi-thread video frame capture system using OpenCV to achieve 60FPS 1080p real-time frame capture.
+- Addressed IMU drift by using MediaPipe's posture estimates to reset the torso's angle when the subject faced forward.
 
-   *Machine Learning Basis:* teach some fundamental ML models and the math behind.
+**ByteDance (Tiktok’s parent company)**  
+*Beijing, China*  
+*Backend Engineer for AI Lab Smart Audio Team*  
+*May. 2023 - Aug. 2023*  
+- Optimized audio data handling (50TB/day) for Douyin by reducing redundant data storage using Magnus, an Iceberg Datalake framework’s git-like branch feature, enabling label isolation across teams and greatly reducing storage cost.
+- Switched data storage format to Parquet, a columnar storage format to support data flow into Magnus datalake.
+- Designed a partitioning strategy to bucket data by time, reducing query costs for view tables for different teams.
+- Migrated the speech processing workflow to a new platform, completing key worker registration, XML configuration, node testing, and workflow optimization. Modified the worker to suit user-defined parameters and DAG workflow scheduling.
 
-### University of California, Berkeley *(Sep.2022 - present)*
+---
 
-* Visiting Student
+## PROJECTS
 
-*  **GPA**: 4.0
+**FortuneDraw Points Lottery System**  
+*SpringBoot, MyBatis, MySQL, Redis, SpringCloud*  
+- Built the lottery system using Domain-Driven Design with multiple design patterns, ensuring maintainability and scalability.
+- Performed performance testing using JMeter to identify and optimize high-latency APIs, improving throughput by 50%.
+- Designed the lottery standard with Template Method pattern, applying the Chain of Responsibility to execute the draw.
+- Implemented a dynamic decision tree with Composite pattern for strategies after draw, supporting configuration via database.
+- Optimized inventory control for high-traffic using Redis with async queues and scheduled updates to reduce database load.
 
-* **Relevant Courses**:
+**Dynamic Thread Pool**  
+*SpringBoot, Nacos, Prometheus, Grafana*  
+- Integrated Nacos for centralized configuration, enabling unified management and dynamic updates of thread pool parameters.
+- Created a custom Actuator Endpoint class to manually expose thread pool metrics, integrated with HertzBeat for monitoring.
+- Configured Prometheus alert rules and Grafana dashboards to enable real-time notifications for thread pool anomalies.
+- Leveraged the SPI mechanism to allow users to customize and extend thread pool rejection policies.
 
-  *Artificial Intelligence:* Learn ideas and techniques underlying the design of intelligent computer systems
+**DishNow Food Delivery Platform**  
+*SpringBoot, Spring Security, MySQL, Redis, MyBatis, Nginx*  
+- Implemented authentication using Spring Security and JWT, with an RBAC model for permission management.
+- Used AOP to automatically populate common fields (e.g., creation time, creator), reducing code and coupling.
+- Used Bloom filters to prevent cache penetration and SpringTask for timed cache pre-warming to avoid cache avalanche.
 
-  *Principles & Techniques of Data Science:* Learn everything needed for a basic Data Science workflow, e.g., feature extraction, Pandas, SQL
+---
 
-  *Computer Security:* Learn security in multiple levels, including program level and Internet level. Learn about cryptography including RSA and its usage
+## COMPETITION
 
-  *Deep Learning:* Learn the advanced DL techniques and the math behind
+**Microsoft Fabric and AI Learning Hackathon**  
+- Designed and implemented an automated system to collect and process images based on user-defined parameters, ensuring consistency in format and dimensions through automated format conversion, super-resolution, and cropping on Azure.
+- Integrated data pipelines and storage triggers to automate the entire image life cycle, from collection to packaging.
+- Applied advanced ML models to enhance image resolution and perform precise cropping, improving image quality.
+- Collaborated with two MLEs on model selection, deployment, and testing, seamlessly integrating models into the data pipeline.
 
-  *Computer Graphics:* Learn Techniques of modeling objects for the purpose of computer rendering. 
+---
 
-  *Efficient Algorithm:*  Learn concept and basic techniques in the design and analysis of algorithms
+## SKILLS
 
-## Skills
-
-* **Programming Language:** Python, C++, GoLang, SQL, Java
-* **DS Library:** Numpy, Pands, Matplotlib
-* **ML Library:** Sklearn, Pytorch
-* Latex
-
-## Experience
-
-### **Shaw College** *(Sep.2020 - Jan.2021)*	Student Helper
-
-* Participated in organizing and carrying out several students’ activities with students and teachers
-
-### **UC Berkeley Data Science Apartment** *(Jan.2023 - present)* 	Student Researcher
-
-* Apply Machine Learning techniques on nuclear reactor reactor
-* Focus on time series data. Use LSTM model.
-* Study how certain operation influence the internal state of reactor with ML
-
-## Project
-
-### LSTM for PebbleBed Reactor
-
-* Implemented a LSTM model with Pytorch
-* Include the data pre-possessing, dataset, nets, grid search and result visualization
-* Achieve a high training and test accuracy
-
-### **An End-to-End Encrypted File Sharing System using GoLang**
-
-* Implemented a secure encrypted file sharing system with GoLang
-* Define some pointer-wise data structure to provide simultaneity
-* Flexibly use some encryption method like symmetry encryption, public encryption and digital signature
-
-### **5-stage Pipelined CPU using Verilog**
-
-*  Implemented a pipelined CPU that supports part of MIPS instructions set for 32-bit system
-* Simulated the register, memory, ALU, and control units
-* Solved the Hazard in pipelined CPU
-* Completed the project by self by referring to the online tutorials and websites
-
-## Languages
-
-### **English**
-
-* TOFEL : 101, GRE: 326
-
-### Chinese
-
-* Native Language
-
-
-
-
-
- 
-
+- **Programming Languages:** Proficient in Java, Python. Intermediate in Javascript/TypeScript, C++. Basic knowledge of Go.
+- **Frameworks:** Spring Boot, Spring Cloud, MyBatis, Hibernate, React, RESTful API Design.
+- **Databases:** MySQL, Redis, PostgreSQL, MongoDB, SQL (Proficient).
+- **Cloud & DevOps Tools:** Docker, Kubernetes (K8s), AWS (EC2, S3, RDS), Nginx, Jenkins, Git, Maven.
+- **Microservices & Distributed Systems:** Spring Cloud, Kafka, RabbitMQ, Nacos.
+- **Testing & Monitoring:** JUnit, Mockito, Postman, Prometheus, Grafana.
