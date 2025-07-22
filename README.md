@@ -1,4 +1,17 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZhongFuCheng3y&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+Hi All! I'm Changyi Yang.
 
+I received my undergraduate degree from The Chinese University of Hong Kong, 
+Shenzhen, and I'm currently pursuing my graduate studies at CMU.
 
+I started my journey as a full-stack engineer, learning a complete set of front-
+end and back-end development skills including Java Spring Boot, React, and more.
+This summer, I'm working as an SDE intern at Amazon.
+
+Currently, my interests have shifted to AI infrastructure. I'm very fortunate to
+have joined the SGLang (https://github.com/sgl-project/sglang) RL team. I'm 
+primarily working on rollout-related tasks in VERL (https://github.com/
+volcengine/verl) and AReaL (https://github.com/inclusionAI/AReaL).
+
+Email: changyiyang2023@gmail.com  
+Blog: https://changyi.fun/
 
